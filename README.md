@@ -14,7 +14,7 @@ This Personalized Health Assistant is a web application built with React, TypeSc
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/personalized-health-assistant.git
+   git clone https://github.com/HokenTech/Personal-Health-Assistant.git
    cd personalized-health-assistant
    ```
 
